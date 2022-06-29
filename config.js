@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Katz',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Vibes',
+					link: 'https://open.spotify.com/playlist/65vgfwW1NLCJMVB6KqwtA6',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Discover weekly',
+					link: 'https://open.spotify.com/playlist/37i9dQZEVXcWNu4JtrwgV2',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lofi',
+					link: 'https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Therapy Gecko',
+					link: 'https://open.spotify.com/show/0fg35zGJ4E7JKdhrTivXmt',
 				},
 			],
 		},
